@@ -25,7 +25,7 @@
                     init-loader
                     auto-complete
                     color-theme-modern
-                    ;gtags
+                    global-tags
                     markdown-mode
                     markdown-mode+
                     python-mode
