@@ -34,6 +34,7 @@
                     jedi
                     go-mode
                     go-autocomplete
+                    qml-mode
                     vue-mode
                     ))))
 
